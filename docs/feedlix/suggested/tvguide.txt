@@ -1,5 +1,5 @@
 #France
-http://www.xmltv.fr/guide/tvguide_tnt.zip
+http://www.xmltv.fr/guide/tvguide_tnt.xml
 
 #Portugal
 http://epg.kodiportugal.com
