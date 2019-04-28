@@ -1,6 +1,9 @@
 #France
 http://www.xmltv.fr/guide/tvguide_tnt.xml
 
+#Germany
+http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Germany/tvdigital.de.channels.xml
+
 #Italy
 http://www.epgitalia.tv/xml/guide.gzip
 
