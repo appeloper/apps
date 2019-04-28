@@ -18,3 +18,6 @@ http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz
 
 #United Kingdom
 http://www.xmltv.co.uk/feed/6715
+
+#United States
+http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/USA/tv.com.channels.xml
