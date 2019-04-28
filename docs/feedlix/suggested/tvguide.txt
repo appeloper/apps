@@ -10,5 +10,8 @@ http://epg.kodiportugal.com
 #Russia
 http://www.teleguide.info/download/new3/xmltv.xml.gz
 
+#Spain
+http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz
+
 #United Kingdom
 http://www.xmltv.co.uk/feed/6715
