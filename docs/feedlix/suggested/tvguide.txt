@@ -8,7 +8,7 @@ http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Ge
 http://www.epgitalia.tv/xml/guide.gzip
 
 #Portugal
-http://epg.kodiportugal.com
+http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Portugal/mag.sapo.pt.channels.xml
 
 #Russia
 http://www.teleguide.info/download/new3/xmltv.xml.gz
