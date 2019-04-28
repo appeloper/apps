@@ -4,5 +4,8 @@ http://www.xmltv.fr/guide/tvguide_tnt.xml
 #Portugal
 http://epg.kodiportugal.com
 
+#Russia
+http://www.teleguide.info/download/new3/xmltv.xml.gz
+
 #United Kingdom
 http://www.xmltv.co.uk/feed/6715
