@@ -1,6 +1,9 @@
 #France
 http://www.xmltv.fr/guide/tvguide_tnt.xml
 
+#Italy
+http://www.epgitalia.tv/xml/guide.gzip
+
 #Portugal
 http://epg.kodiportugal.com
 
