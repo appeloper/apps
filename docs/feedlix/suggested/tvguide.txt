@@ -1,5 +1,5 @@
 #France
-https://xmltv.ch/xmltv/xmltv-tnt.zip
+https://xmltv.ch/xmltv/xmltv-tnt.xml
 
 #Italy
 http://www.epgitalia.tv/xml/guide.gzip
