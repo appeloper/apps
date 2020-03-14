@@ -14,4 +14,4 @@ http://www.teleguide.info/download/new3/xmltv.xml.gz
 https://raw.githubusercontent.com/HarryElSuzio/EPG-IPTV.ESPA-A/master/EPG_TDT_MOVISTAR_TV_HarryElSuzio_auto
 
 #United Kingdom
-http://www.xmltv.co.uk/feed/6715
+http://www.xmltv.co.uk/feed/8943
