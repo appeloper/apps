@@ -11,7 +11,7 @@ http://bit.ly/epg-pt
 http://www.teleguide.info/download/new3/xmltv.xml.gz
 
 #Spain
-http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz
+https://github.com/HarryElSuzio/EPG-IPTV.ESPA-A/blob/master/guide.xml.gz%40raw%3Dtrue
 
 #United Kingdom
 http://www.xmltv.co.uk/feed/6715
