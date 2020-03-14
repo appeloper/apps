@@ -1,17 +1,1 @@
-#France
-https://xmltv.ch/xmltv/xmltv-tnt.xml
 
-#Italy
-http://www.epgitalia.tv/xml/guide.gzip
-
-#Portugal
-http://bit.ly/epg-pt
-
-#Russia
-http://www.teleguide.info/download/new3/xmltv.xml.gz
-
-#Spain
-https://raw.githubusercontent.com/HarryElSuzio/EPG-IPTV.ESPA-A/master/EPG_TDT_MOVISTAR_TV_HarryElSuzio_auto
-
-#United Kingdom
-http://www.xmltv.co.uk/feed/8943
