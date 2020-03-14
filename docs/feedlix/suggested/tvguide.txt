@@ -5,7 +5,7 @@ https://xmltv.ch/xmltv/xmltv-tnt.xml
 http://www.epgitalia.tv/xml/guide.gzip
 
 #Portugal
-http://epg.kodiportugal.com
+http://bit.ly/epg-pt
 
 #Russia
 http://www.teleguide.info/download/new3/xmltv.xml.gz
