@@ -7,6 +7,9 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/America.m3u
 #Asia and Oceania
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Asia%20and%20Oceania.m3u
 
+#Brasil free Pluto
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/Brasil%20free%20Pluto.m3u
+
 #Canada
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Canada.m3u
 
