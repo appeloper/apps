@@ -1,3 +1,9 @@
+#Pluto TV
+https://i.mjh.nz/PlutoTV/all.xml.gz
+
+#Samsung TV
+https://i.mjh.nz/SamsungTVPlus/all.xml.gz
+
 #France
 https://xmltv.ch/xmltv/xmltv-tnt.xml
 
