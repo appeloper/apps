@@ -52,8 +52,6 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Music.m3u
 #United States free Plex
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Plex.m3u
 
-#Pluto TV
-
 #Brasil free Pluto
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Brasil%20free%20Pluto.m3u
 
