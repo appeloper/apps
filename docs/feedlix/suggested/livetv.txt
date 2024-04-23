@@ -7,8 +7,14 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/America.m3u
 #Asia and Oceania
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Asia%20and%20Oceania.m3u
 
+#Australia free Samsung
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/Australia%20free%20Samsung.m3u
+
 #Brasil free Pluto
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Brasil%20free%20Pluto.m3u
+
+#Brasil free Samsung
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/Brasil%20free%20Samsung.m3u
 
 #Canada
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Canada.m3u
@@ -18,6 +24,9 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Canada%20free%2
 
 #Canada free Samsung
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Canada%20free%20Samsung.m3u
+
+#Canada free Plex
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/Canada%20free%20Plex.m3u
 
 #Chile free Pluto
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Chile%20free%20Pluto.m3u
@@ -57,6 +66,9 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Italy%20free%20
 
 #Italy free Samsung
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Italy%20free%20Samsung.m3u
+
+#Italy free Rakuten
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/Italy%20free%20Rakuten.m3u
 
 #Kids
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Kids.m3u
@@ -99,6 +111,9 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20Kingdo
 
 #United Kingdom free Samsung
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20Kingdom%20free%20Samsung.m3u
+
+#United Kingdom free Rakuten
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20Kingdom%20free%20Rakuten.m3u
 
 #United States
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States.m3u
