@@ -1,6 +1,9 @@
 #Pluto TV
 https://i.mjh.nz/PlutoTV/all.xml.gz
 
+#Plex TV
+https://i.mjh.nz/Plex/all.xml.gz
+
 #Plex TV United States
 https://i.mjh.nz/Plex/us.xml.gz
 
