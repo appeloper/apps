@@ -1,24 +1,3 @@
-#Pluto TV
-https://i.mjh.nz/PlutoTV/all.xml.gz
-
-#Plex TV
-https://i.mjh.nz/Plex/all.xml.gz
-
-#Plex TV United States
-https://i.mjh.nz/Plex/us.xml.gz
-
-#Samsung TV
-https://i.mjh.nz/SamsungTVPlus/all.xml.gz
-
-#France
-https://xmltv.ch/xmltv/xmltv-tnt.xml
-
-#Italy
-http://www.epgitalia.tv/xml/guide.gzip
-
-#Portugal
-https://www.bevy.be/bevyfiles/portugal.xml.gz
-
 #Brazil
 https://www.bevy.be/bevyfiles/brazil.xml.gz
 
@@ -28,20 +7,41 @@ https://www.bevy.be/bevyfiles/canada.xml.gz
 #China
 https://www.bevy.be/bevyfiles/china.xml.gz
 
+#France
+https://xmltv.ch/xmltv/xmltv-tnt.xml
+
 #Germany
 https://www.bevy.be/bevyfiles/germany.xml.gz
 
-#Turkey
-https://www.bevy.be/bevyfiles/turkey.xml.gz
+#Italy
+http://www.epgitalia.tv/xml/guide.gzip
 
-#United States
-https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz
+#Plex TV
+https://i.mjh.nz/Plex/all.xml.gz
+
+#Plex TV United States
+https://i.mjh.nz/Plex/us.xml.gz
+
+#Pluto TV
+https://i.mjh.nz/PlutoTV/all.xml.gz
+
+#Portugal
+https://www.bevy.be/bevyfiles/portugal.xml.gz
 
 #Russia
 http://www.teleguide.info/download/new3/xmltv.xml.gz
 
+#Samsung TV
+https://i.mjh.nz/SamsungTVPlus/all.xml.gz
+
 #Spain
 http://tdtchannels.com/epg/TV.xml
 
+#Turkey
+https://www.bevy.be/bevyfiles/turkey.xml.gz
+
 #United Kingdom
 https://www.bevy.be/bevyfiles/unitedkingdom.xml.gz
+
+#United States
+https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz
