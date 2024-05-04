@@ -88,6 +88,9 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Norway%20free%2
 #Portugal
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Portugal.m3u
 
+#Portugal Radio
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/Portugal%20Radio.m3u
+
 #Russia
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Russia.m3u
 
@@ -103,8 +106,8 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Spain%20free%20
 #Sweden free Pluto
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Sweden%20free%20Pluto.m3u
 
-#Switzerland free Pluto
-https://raw.githubusercontent.com/appeloper/contents/master/iptv/Switzerland%20free%20Pluto.m3u
+#Switzerland free Samsung
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/Switzerland%20free%20Samsung.m3u
 
 #Turkey
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Turkey.m3u
