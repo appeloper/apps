@@ -37,6 +37,9 @@ https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 #Spain
 http://tdtchannels.com/epg/TV.xml
 
+#Stirr
+https://i.mjh.nz/Stirr/all.xml.gz
+
 #Turkey
 https://www.bevy.be/bevyfiles/turkey.xml.gz
 
