@@ -141,3 +141,6 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States
 
 #United States free Plex
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Plex.m3u
+
+#United States free Stirr
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Stirr.m3u
