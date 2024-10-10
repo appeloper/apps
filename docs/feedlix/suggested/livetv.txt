@@ -106,6 +106,9 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Spain%20free%20
 #Spain free Samsung
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Spain%20free%20Samsung.m3u
 
+#Spain free Rakuten
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/Spain%20free%20Rakuten.m3u
+
 #Sweden free Pluto
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Sweden%20free%20Pluto.m3u
 
