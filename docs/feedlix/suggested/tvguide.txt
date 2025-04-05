@@ -28,6 +28,9 @@ https://i.mjh.nz/PlutoTV/all.xml.gz
 #Portugal
 https://www.bevy.be/bevyfiles/portugal.xml.gz
 
+#Rakuten TV Spain
+https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
+
 #Russia
 http://www.teleguide.info/download/new3/xmltv.xml.gz
 
