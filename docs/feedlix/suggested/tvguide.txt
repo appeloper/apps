@@ -28,6 +28,9 @@ https://i.mjh.nz/PlutoTV/all.xml.gz
 #Portugal
 https://www.bevy.be/bevyfiles/portugal.xml.gz
 
+#Rakuten TV Italy
+https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
+
 #Rakuten TV Spain
 https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
 
@@ -36,6 +39,9 @@ http://www.teleguide.info/download/new3/xmltv.xml.gz
 
 #Samsung TV
 https://i.mjh.nz/SamsungTVPlus/all.xml.gz
+
+#Samsung TVPlus All
+https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz
 
 #Spain
 http://tdtchannels.com/epg/TV.xml
