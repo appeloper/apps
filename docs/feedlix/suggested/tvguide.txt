@@ -1,59 +1,29 @@
-#Brazil
-https://www.bevy.be/bevyfiles/brazil.xml.gz
-
-#Canada
-https://www.bevy.be/bevyfiles/canada.xml.gz
-
-#China
-https://www.bevy.be/bevyfiles/china.xml.gz
-
-#France
-https://xmltv.ch/xmltv/xmltv-tnt.xml
-
-#Germany
-https://www.bevy.be/bevyfiles/germany.xml.gz
-
 #Italy
 http://www.epgitalia.tv/xml/guide.gzip
 
-#Plex TV
+#Italy Rakuten TV
+https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
+
+#Plex TV All
 https://i.mjh.nz/Plex/all.xml.gz
 
-#Plex TV United States
-https://i.mjh.nz/Plex/us.xml.gz
-
-#Pluto TV
+#Pluto TV All
 https://i.mjh.nz/PlutoTV/all.xml.gz
 
 #Portugal
-https://www.bevy.be/bevyfiles/portugal.xml.gz
+https://github.com/thomraider12/canaistvpt/raw/main/EPG/all.xml.gz
 
-#Rakuten TV Italy
-https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
-
-#Rakuten TV Spain
-https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
-
-#Russia
-http://www.teleguide.info/download/new3/xmltv.xml.gz
-
-#Samsung TV
+#Samsung TV All
 https://i.mjh.nz/SamsungTVPlus/all.xml.gz
-
-#Samsung TVPlus All
-https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz
 
 #Spain
 http://tdtchannels.com/epg/TV.xml
 
-#Stirr
+#Stirr All
 https://i.mjh.nz/Stirr/all.xml.gz
 
-#Turkey
-https://www.bevy.be/bevyfiles/turkey.xml.gz
-
 #United Kingdom
-https://www.bevy.be/bevyfiles/unitedkingdom.xml.gz
+https://www.webgrabplus.com/sites/default/files/download/ini/info/zip/UK_tvguide.co.uk.zip
 
 #United States
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz
