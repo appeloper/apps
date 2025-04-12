@@ -19,6 +19,9 @@ https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 #Spain
 http://tdtchannels.com/epg/TV.xml
 
+Spain Rakuten TV
+https://github.com/coderfast/IPTV/blob/main/rakutentv.xml.gz
+
 #Stirr All
 https://i.mjh.nz/Stirr/all.xml.gz
 
