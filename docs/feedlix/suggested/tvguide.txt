@@ -20,7 +20,7 @@ https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
 https://i.mjh.nz/Stirr/all.xml.gz
 
 #United Kingdom
-https://raw.githubusercontent.com/dp247/Freeview-EPG/refs/heads/master/epg.xml.gz
+https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/UK_guide.xml.gz
 
 #United States
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz
