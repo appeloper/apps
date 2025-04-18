@@ -1,12 +1,3 @@
-#Africa and Middle East
-https://raw.githubusercontent.com/appeloper/contents/master/iptv/Africa%20and%20Middle%20East.m3u
-
-#America
-https://raw.githubusercontent.com/appeloper/contents/master/iptv/America.m3u
-
-#Asia and Oceania
-https://raw.githubusercontent.com/appeloper/contents/master/iptv/Asia%20and%20Oceania.m3u
-
 #Australia free Samsung
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Australia%20free%20Samsung.m3u
 
@@ -37,14 +28,8 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Canada%20free%2
 #Chile free Pluto
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Chile%20free%20Pluto.m3u
 
-#China
-https://raw.githubusercontent.com/appeloper/contents/master/iptv/China.m3u
-
 #Denmark free Pluto
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Denmark%20free%20Pluto.m3u
-
-#Europe
-https://raw.githubusercontent.com/appeloper/contents/master/iptv/Europe.m3u
 
 #France
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/France.m3u
@@ -76,6 +61,9 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Italy%20free%20
 #Italy free Rakuten
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Italy%20free%20Rakuten.m3u
 
+#International Radio
+https://raw.githubusercontent.com/appeloper/contents/master/iptv/International%20Radio.m3u
+
 #Kids
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Kids.m3u
 
@@ -93,9 +81,6 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Portugal.m3u
 
 #Portugal Radio
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Portugal%20Radio.m3u
-
-#Russia
-https://raw.githubusercontent.com/appeloper/contents/master/iptv/Russia.m3u
 
 #Spain
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Spain.m3u
@@ -117,9 +102,6 @@ https://raw.githubusercontent.com/appeloper/contents/master/iptv/Switzerland%20f
 
 #Switzerland free Samsung
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/Switzerland%20free%20Samsung.m3u
-
-#Turkey
-https://raw.githubusercontent.com/appeloper/contents/master/iptv/Turkey.m3u
 
 #United Kingdom
 https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20Kingdom.m3u
